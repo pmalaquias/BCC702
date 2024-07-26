@@ -1,0 +1,4 @@
+3
+Joao 101 Gerente 5000.0
+Maria 102 Analista 3800.0
+Lucas 103 Consultor 3200.0

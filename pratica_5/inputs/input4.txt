@@ -1,0 +1,11 @@
+10
+João 7.5 8.0
+Maria 6.0 7.5
+Lucas 8.0 9.0
+Ana 7.0 6.5
+Pedro 9.5 8.5
+Carla 5.0 6.0
+Marcos 8.5 7.5
+Sofia 6.5 7.0
+Bruno 7.0 8.0
+Fernanda 9.0 9.5
